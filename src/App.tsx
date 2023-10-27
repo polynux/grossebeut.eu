@@ -1,6 +1,5 @@
 import { css } from "@css";
 import Canva from "./components/Canvas";
-import Box from "./components/Box";
 import { maze } from "./main";
 import Maze3D from "./components/Maze3D";
 
